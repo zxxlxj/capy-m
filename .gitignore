@@ -1,0 +1,8 @@
+*
+!*/
+!.gitignore
+!README.md
+!checksums.json
+!assets/mania.png
+!docs/plugin-platform/examples/mania/mania.js
+!docs/plugin-platform/examples/mania/release-manifest.json

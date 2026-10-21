@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "player": "CapyPlayer",
   "format": "JavaScript",
   "protection": "obfuscated",
@@ -8,7 +8,7 @@
     ".gitignore": "8a48cb047828ab008f2d2f09ac381b1090710ff036fdb23e13843c1ef80d0d72",
     "README.md": "224beaefafe53e6267f19a6038bbaffba7bc4a85c4c9af3e8611402f4f5f36bf",
     "assets/mania.png": "021e121b5e196e24d0e348de29a5b7c55c6d32e13c1fdf373217de79bc4b42c8",
-    "docs/plugin-platform/examples/mania/mania.js": "f3711a11259b4dcb3cda962ddca97a35b11c4af19bbdbcba2580a2e8d808cf08",
-    "docs/plugin-platform/examples/mania/release-manifest.json": "398c8f81d80ce651c2c0a18220739723a54e278a8fe4367309786ff2b50a31bd"
+    "docs/plugin-platform/examples/mania/mania.js": "9f1dd3c6f887eba199f8d7feb9bfd1699832e102771b5292a0978ea74e2713f5",
+    "docs/plugin-platform/examples/mania/release-manifest.json": "032623df150bcdcb24c4a2d27708851dac2b1fa8fb11310fd5e1ae85d9545bd3"
   }
 }

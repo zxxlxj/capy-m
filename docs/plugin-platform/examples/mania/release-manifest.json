@@ -1,11 +1,11 @@
 {
   "name": "MANIA",
   "player": "CapyPlayer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "format": "JavaScript",
   "protection": "obfuscated",
   "comments": 0,
-  "sha256": "42652fc17a0117c7299019ed9e7a63e0c6e636ab6eec4e38ae8670c3abfcd852",
-  "functional_tests": 64,
+  "sha256": "2e74ee9e8aca8846de8b5440d714e6cbaf2cff99aeaab97451ae3c3030e8b8dd",
+  "functional_tests": 68,
   "apple_javascriptcore": true
 }
